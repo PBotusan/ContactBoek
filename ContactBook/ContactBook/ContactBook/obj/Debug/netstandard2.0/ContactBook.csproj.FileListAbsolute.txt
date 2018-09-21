@@ -1,0 +1,16 @@
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\bin\Debug\netstandard2.0\ContactBook.deps.json
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\bin\Debug\netstandard2.0\ContactBook.dll
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.csprojAssemblyReference.cache
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.AssemblyInfoInputs.cache
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.AssemblyInfo.cs
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\bin\Debug\netstandard2.0\ContactBook.pdb
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\Views\ContactDetailPage.xaml.g.cs
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\Views\ContactsPage.xaml.g.cs
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.dll
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.pdb
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\Roy\source\repos\ContactBook\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.csproj.CopyComplete
